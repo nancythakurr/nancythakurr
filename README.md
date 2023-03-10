@@ -309,19 +309,21 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
+  
+<!--intro-->
 <br />
   <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
+                <b><a target="_blank" href="https://billionxsoftware.com/">Dushyant Thakur</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+    <a href="https://linktr.ee/Iamdushyant">「 Reach Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
+    「 I am a full stack web developer, Android/iOS appplication developer from <b>Chandigarh</b> 」
     <br>
     <br>
   </samp>
@@ -357,8 +359,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: thakurdushyant83@outlook.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/iamdushyantt)
 
 </p>
 
