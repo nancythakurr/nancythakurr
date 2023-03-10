@@ -81,3 +81,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
+
+[![][banner-url]][repo-url]  
+
+
+[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-3.svg
+[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
+[repo-url]: https://github.com/saadeghi/daisyui
+[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
